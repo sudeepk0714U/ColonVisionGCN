@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Dataset
+archive/
+
+# Model weights
+*.pth
+*.pt
+
+# Generated plots
+plots/
+
+# Environment files
+.env
